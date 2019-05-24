@@ -5,7 +5,7 @@ class Form extends Component {
         super(props);
         this.state = {
             title:'',
-            globalTitle:'Title this shit',
+            globalTitle:'This is a Title',
         };
     }
 
